@@ -4,4 +4,4 @@
 
 You will be working primarily in the "threads" directory for this assignment, with some work in the "devices" directory on the side. Compilation should be done in the "threads" directory. 
 
-web.stanford.edu/class/cs140/projects/pintos/pintos_2.html
+Web.Stanford.Edu/Class/Cs140/Projects/Pintos/Pintos_2.Html
